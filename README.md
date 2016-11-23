@@ -1,2 +1,2 @@
 # cognitive
-image, voice, vision, and video Intelligence by MS Cognitive and other resources
+image, voice, vision, and video services by MS Cognitive and other resources
